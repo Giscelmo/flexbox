@@ -1,1 +1,4 @@
-# flexbox
+# FLEXBOX
+
+Criando um layout inteiramente responsivo
+
